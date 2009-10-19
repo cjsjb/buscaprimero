@@ -1,7 +1,7 @@
 \include "buscaprimero3-encabezado.inc"
 
 \score {
-    <<
+    \new StaffGroup <<
         % force offset of colliding notes in chords:
         \override Score.NoteColumn #'force-hshift = #1.0
 	\override Score.MetronomeMark #'padding = #8.0
