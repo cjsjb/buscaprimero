@@ -1,4 +1,4 @@
-        \context Staff = "sopranop" <<
+        \context Staff = "sopranop" \with { \consists Ambitus_engraver } <<
             \set Staff.instrumentName = "Soprano II"
             \set Staff.shortInstrumentName = "S.2"
             \set Score.skipBars = ##t
