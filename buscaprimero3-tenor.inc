@@ -10,7 +10,8 @@
                 \override Voice.TextScript #'padding = #2.0
                 \override MultiMeasureRest #'expand-limit = 1
 
-                \clef "treble"
+                \clef "treble_8"
+	\transpose c'' c' {
                 R1*2  |
                 c'' 2 c'' 4 c''  |
                 b' 2 b' 4 b'  |
@@ -53,6 +54,7 @@
                 c'' 1  |
                 R1  |
                 \bar "|."
+	}
             } % Voice
             \lyricsto "tenor" \new Lyrics \lyricmode {
                  "Bus-" "ca" "pri-" "-me-" "ro" "el" "rei-" "no" "de" "Dios" "y" "su" "jus-" "-ti-" "cia" "di-" "-vi-" "-na-" "a-" "a." "To-" "do" "se_os" "da-" "-rá" "po-" "or" "a-" "ña-" "di-" "-du-" "ra," "¡A-" "le-" "lu-" "-ya," "a-" "le" "-lu-" "u-" "ya!" "¡A-" "-le-" "-lu-" "-ya," "a-" "-le-" "-lu-" "-ya!" "¡A-" "a-" "-a-" "-le-" "-lu-" "-ya," "a-" "-le-" "-lu-" "-ya!" 
