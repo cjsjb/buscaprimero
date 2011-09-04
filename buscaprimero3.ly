@@ -30,7 +30,6 @@ globalTempo = {
 
 	\include "buscaprimero3-acordes.inc"
 	\include "buscaprimero3-soprano.inc"
-	\include "buscaprimero3-sopranop.inc"
 	\include "buscaprimero3-mezzo.inc"
 	\include "buscaprimero3-tenor.inc"
 

@@ -5,7 +5,7 @@
 \header {
 	title = "Busca primero"
 	tagline = "Coro Juvenil San Juan Bosco"
-	instrument = "Soprano I"
+	instrument = "Soprano"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
