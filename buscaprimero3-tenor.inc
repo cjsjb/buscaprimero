@@ -11,50 +11,48 @@
 		\override MultiMeasureRest #'expand-limit = 1
 
 		\clef "treble_8"
-	\transpose c'' c' {
 		R1*2  |
-		c'' 2 c'' 4 c''  |
-		b' 2 b' 4 b'  |
+		c' 2 c' 4 c'  |
+		b 2 b 4 b  |
 %% 5
-		a' 2 a' 4 a'  |
-		g' 1  |
-		a' 2 b' 4 a'  |
-		g' 2 a' 4 g'  |
-		g' 1  |
+		a 2 a 4 a  |
+		g 1  |
+		a 2 a 4 a  |
+		g 2 g 4 g  |
+		g 1  |
 %% 10
-		g' 2 ( a' 4 b' )  |
-		c'' 4 b' c'' c''  |
-		b' 2 b' 4 ( g' )  |
-		a' 2 a' 4 a'  |
-		g' 2 g'  |
+		g 2 ( a 4 b )  |
+		c' 4 c' c' c'  |
+		b 2 b 4 ~ b  |
+		a 2 a 4 a  |
+		g 2 g  |
 %% 15
-		a' 2 b' 4 a'  |
-		g' 2 a' 4 g'  |
-		g' 2. ~ g' 4  |
-		g' 1  |
+		a 2 b 4 a  |
+		g 2 a 4 g  |
+		g 2. ( g 4 )  |
+		g 1  |
 		R1*3  |
-		c'' 1  |
-		b' 1  |
-		a' 1  |
+		c' 1  |
+		b 1  |
+		a 1  |
 %% 25
-		g' 1  |
-		a' 1  |
-		g' 1  |
-		g' 1  |
-		g' 2 a' 4 ( b'  |
+		g 1  |
+		a 1  |
+		g 1  |
+		g 1  |
+		g 2 ( a 4 b )  |
 %% 30
-		c'' 1 )  |
-		b' 1  |
-		a' 1  |
-		g' 1  |
-		a' 1  |
+		c' 1  |
+		b 1  |
+		a 1  |
+		g 1  |
+		a 1  |
 %% 35
-		g' 1  |
-		b' 1  |
-		c'' 1  |
+		g 1  |
+		g 1  |
+		g 1  |
 		R1  |
 		\bar "|."
-	}
 	}
 	\lyricsto "tenor" \new Lyrics \lyricmode {
 		"Bus" -- "ca" "pri" -- "me" -- "ro" "el" "rei" -- "no" "de" "Dios"
