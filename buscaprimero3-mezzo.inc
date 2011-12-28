@@ -12,46 +12,28 @@
 
 		\clef "treble"
 		\key c \major
-		R1*2  |
-		e' 4 ( d' ) e' f'  |
-		d' 2 d' 4 d'  |
+		R1  |
+		e' 8 ( d' ) e' f' d' 4 d' 8 d'  |
+		c' 4 c' 8 d' b 2  |
+		c' 4 e' 8 d' c' 4 c' 8 a  |
 %% 5
-		c' 2 c' 4 d'  |
-		b 1  |
-		c' 2 e' 4 d'  |
-		c' 2 c' 4 a  |
-		b 1  |
+		b 2 b 4 r8 e'  |
+		e' 8 d' e' f' d' 4 b 8 ~ b  |
+		c' 4 d' 8 c' b 4 b  |
+		c' 4 c' 8 c' e' 4 c' 8 c'  |
+		d' 4. ( e' 8 ) e' 2  |
 %% 10
-		b 2 r4 e'  |
-		e' 4 d' e' f'  |
-		d' 2 b 4 ~ b  |
-		c' 2 d' 4 c'  |
-		b 2 b  |
+		R1*2  |
+		e' 8 ( d' ) e' f' d' 4 d' 8 d'  |
+		c' 8 c' c' d' b 2  |
+		c' 4 e' 8 d' c' 4 c' 8 a  |
 %% 15
-		c' 2 c' 4 c'  |
-		e' 2 c' 4 c'  |
-		d' 2. ( e' 4 )  |
-		e' 1  |
-		R1*3  |
-		e' 4 ( d' ) e' f'  |
-		d' 2 d' 4 d'  |
-		c' 4 c' c' d'  |
-%% 25
-		b 1  |
-		c' 2 e' 4 d'  |
-		c' 2 c' 4 a  |
-		b 1  |
-		b 2 r4 e'  |
-%% 30
-		e' 4 d' e' f'  |
-		d' 2 b 4 ~ b  |
-		c' 2 d' 4 c'  |
-		b 2 b  |
-		c' 2 c' 4 c'  |
-%% 35
-		e' 2 c' 4 c'  |
-		d' 2. ( e' 4 )  |
-		e' 1  |
+		b 2 b 4 r8 e'  |
+		e' 8 d' e' f' d' 4 b 8 ~ b  |
+		c' 4 d' 8 c' b 4 b  |
+		c' 4 c' 8 c' e' 4 c' 8 c'  |
+		d' 4. ( e' 8 ) e' 2  |
+%% 20
 		R1  |
 		\bar "|."
 	}

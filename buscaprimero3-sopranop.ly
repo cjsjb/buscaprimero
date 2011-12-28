@@ -17,10 +17,10 @@
 }
 global = {
 	\time 4/4
-	\skip 1*38  %% 1-38
+	\skip 1*20  %% 1-20
 }
 globalTempo = {
-	\tempo 4 = 140  \skip 1*38
+	\tempo 4 = 70  \skip 1*20
 }
 
 \score {
