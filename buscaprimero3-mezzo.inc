@@ -12,36 +12,55 @@
 
 		\clef "treble"
 		\key c \major
-		R1  |
-		e' 8 ( d' ) e' f' d' 4 d' 8 d'  |
-		c' 4 c' 8 d' b 2  |
-		c' 4 e' 8 d' c' 4 c' 8 a  |
+		R2*2  |
+		e' 8 ( d' ) e' f'  |
+		d' 4 d' 8 d'  |
 %% 5
-		b 2 b 4 r8 e'  |
-		e' 8 e' e' e' d' 4 d' 8 ~ d'  |
-		c' 4 c' 8 d' b 4 b  |
-		c' 4 c' 8 c' e' 4 c' 8 c'  |
-		d' 4. ( e' 8 ) e' 2  |
+		c' 4 c' 8 d'  |
+		b 2  |
+		c' 4 e' 8 d'  |
+		c' 4 c' 8 a  |
+		b 2  |
 %% 10
-		R1*2  |
-		e' 8 ( d' ) e' f' d' 4 d' 8 d'  |
-		c' 8 c' c' d' b 2  |
-		c' 4 e' 8 d' c' 4 c' 8 a  |
+		b 4 r8 e'  |
+		e' 8 e' e' e'  |
+		d' 4 d' 8 ~ d'  |
+		c' 4 c' 8 d'  |
+		b 4 b  |
 %% 15
-		b 2 b 4 r8 e'  |
-		e' 8 e' e' e' d' 4 d' 8 ~ d'  |
-		c' 4 c' 8 d' b 4 b  |
-		c' 4 c' 8 c' e' 4 c' 8 c'  |
-		d' 4. ( e' 8 ) e' 2  |
+		c' 4 c' 8 c'  |
+		e' 4 c' 8 c'  |
+		d' 4. ( e' 8 )  |
+		e' 2  |
+		R2  |
 %% 20
-		R1  |
+		e' 8 ( d' ) e' f'  |
+		d' 4 d' 8 d'  |
+		c' 8 c' c' d'  |
+		b 2  |
+		c' 4 e' 8 d'  |
+%% 25
+		c' 4 c' 8 a  |
+		b 2  |
+		b 4 r8 e'  |
+		e' 8 e' e' e'  |
+		d' 4 d' 8 ~ d'  |
+%% 30
+		c' 4 c' 8 d'  |
+		b 4 b  |
+		c' 4 c' 8 c'  |
+		e' 4 c' 8 c'  |
+		d' 4. ( e' 8 )  |
+%% 35
+		e' 2  |
 		\bar "|."
 	}
 	\lyricsto "mezzo" \new Lyrics \lyricmode {
 		"Bus" __ "ca" "pri" -- "me" -- "ro" "el" "rei" -- "no" "de" "Dios"
 		"y" "su" "jus" -- "ti" -- "cia" "di" -- "vi" -- "na,"
-		"y" "to" -- "do" "se os" "da" -- "rá" "por" "a" -- "ña" -- "di" -- "du" -- "ra,"
+		"y" "to" -- "do" "se os" "da" -- "rá" "por" __ "a" -- "ña" -- "di" -- "du" -- "ra,"
 		"¡A" -- "le" -- "lu" -- "ya," "a" -- "le" -- "lu" __ "ya!"
+
 		"¡A" __ "le" -- "lu" -- "ya," "a" -- "le" -- "lu" -- "ya, a" -- "le" -- "lu" -- "ya,"
 		"a" -- "le" -- "lu" -- "ya," "a" -- "le" -- "lu" -- "ya!"
 		"Y" "to" -- "do" "se os" "da" -- "rá" "por" "a" -- "ña" -- "di" -- "du" -- "ra,"

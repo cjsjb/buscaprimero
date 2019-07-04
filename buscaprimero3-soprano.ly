@@ -16,11 +16,11 @@
 	first-page-number = 1
 }
 global = {
-	\time 4/4
-	\skip 1*20  %% 1-20
+	\time 2/4
+	\skip 2*35
 }
 globalTempo = {
-	\tempo 4 = 70  \skip 1*20
+	\tempo 4 = 70  \skip 2*35
 }
 
 \score {
