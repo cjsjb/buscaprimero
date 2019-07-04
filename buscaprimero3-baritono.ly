@@ -3,9 +3,9 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-    title = "Busca primero"
-    tagline = "Coro Juvenil San Juan Bosco"
-    instrument = "Barítono"
+	title = "Busca primero"
+	tagline = "Coro Juvenil San Juan Bosco"
+	instrument = "Barítono"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
@@ -16,22 +16,21 @@
 	first-page-number = 1
 }
 global = {
-    \time 2/4
-    \skip 2*35
+	\time 2/4
+	\skip 2*35
 }
 globalTempo = {
-    \tempo 4 = 70  \skip 2*35
+	\tempo 4 = 70  \skip 2*35
 }
-
 \score {
-    <<
-        % force offset of colliding notes in chords:
-        \override Score.NoteColumn #'force-hshift = #1.0
+	<<
+		% force offset of colliding notes in chords:
+		\override Score.NoteColumn #'force-hshift = #1.0
 
-	\include "buscaprimero3-acordes.inc"
-	\include "buscaprimero3-baritono.inc"
+		\include "buscaprimero3-acordes.inc"
+		\include "buscaprimero3-baritono.inc"
 
-    >> % notes
+	>>
 
-    \layout { }
-} % score
+	\layout { }
+}

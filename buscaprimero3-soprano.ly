@@ -22,7 +22,6 @@ global = {
 globalTempo = {
 	\tempo 4 = 70  \skip 2*35
 }
-
 \score {
 	<<
 		% force offset of colliding notes in chords:
@@ -31,7 +30,7 @@ globalTempo = {
 		\include "buscaprimero3-acordes.inc"
 		\include "buscaprimero3-soprano.inc"
 
-	>> % notes
+	>>
 
 	\layout { }
-} % score
+}
