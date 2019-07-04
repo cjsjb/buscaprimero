@@ -31,6 +31,7 @@ globalTempo = {
 	\include "buscaprimero3-soprano.inc"
 	\include "buscaprimero3-mezzo.inc"
 	\include "buscaprimero3-tenor.inc"
+	\include "buscaprimero3-baritono.inc"
 
     >> % notes
 
