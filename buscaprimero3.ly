@@ -35,8 +35,8 @@ globalTempo = {
 			\include "buscaprimero3-baritono.inc"
 		>>
 		\new StaffGroup <<
-			\include "buscaprimero3-cello.inc"
 			\include "buscaprimero3-violin.inc"
+			\include "buscaprimero3-cello.inc"
 		>>
 	>>
 
