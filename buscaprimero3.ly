@@ -33,6 +33,7 @@ globalTempo = {
 			\include "buscaprimero3-tenor.inc"
 			\include "buscaprimero3-baritono.inc"
 		>>
+		\include "buscaprimero3-cello.inc"
 	>>
 
 	\layout { }
