@@ -16,10 +16,10 @@
 }
 global = {
 	\time 2/4
-	\skip 2*35
+	\skip 2*34
 }
 globalTempo = {
-	\tempo 4 = 70  \skip 2*35
+	\tempo 4 = 70  \skip 2*34
 }
 \score {
 	<<
@@ -27,6 +27,7 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "buscaprimero3-acordes.inc"
+		\include "buscaprimero3-marcas.inc"
 		\new StaffGroup <<
 			\include "buscaprimero3-soprano.inc"
 			\include "buscaprimero3-mezzo.inc"

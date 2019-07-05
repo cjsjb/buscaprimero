@@ -30,22 +30,21 @@
 		e 2  |
 %% 15
 		f 2  |
-		c 2 \>
-		% warning: overlong bar truncated here |
+		c 2 \>  |
 		g, 2  |
 		c 2  |
-		R2*8 \!  |
+		R2*7 \!  |
 		r4 a, 8 b,  |
 		c 4 b, 8 c  |
 		d 4 b, 8 d  |
-%% 30
 		c 8 a, c d  |
+%% 30
 		e 2  |
 		f 2  |
 		c 2  |
 		g, 2  |
-%% 35
 		c 2  |
+%% 35
 		\bar "|."
 	}
 >>
