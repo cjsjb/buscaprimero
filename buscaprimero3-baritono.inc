@@ -53,7 +53,7 @@
 		c' 2  |
 		\bar "|."
 	}
-	\lyricsto "voz-baritono" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-baritono" {
 		"Bus" __ "ca" "pri" -- "me" -- "ro" "el" "rei" -- "no" "de" "Dios"
 		"y" "su" "jus" -- "ti" -- "cia" "di" -- "vi" -- "na,"
 		"y" "to" -- "do" "se os" "da" -- "rá" "por" __ "a" -- "ña" -- "di" -- "du" -- "ra,"

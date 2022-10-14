@@ -54,7 +54,7 @@
 		c' 2  |
 		\bar "|."
 	}
-	\lyricsto "soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "soprano" {
 		"Bus"  __ "ca" "pri" -- "me" -- "ro" "el" "rei" -- "no" "de" "Dios"
 		"y" "su" "jus" -- "ti" -- "cia" "di" -- "vi" -- "na,"
 		"y" "to" -- "do" "se os" "da" -- "rá" "por" __ "a" -- "ña" -- "di" -- "du" -- "ra,"
