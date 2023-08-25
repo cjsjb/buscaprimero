@@ -4,6 +4,8 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Busca primero"
+	composer = "Karen Lafferty"
+	copyright = "Copyright © 1972 Maranatha! Music and Cccm Music"
 	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Barítono"
 }
