@@ -13,46 +13,45 @@
 		\clef "treble"
 		\key c \major
 
-		R2*2  |
-		e' 8 ( d' ) e' f'  |
-		g' 4 e' 8 d'  |
+		R1*2  |
+		e' 4 ( d' ) e' f'  |
+		g' 2 e' 4 d'  |
 %% 5
-		c' 4 c' 8 d'  |
-		e' 2  |
-		f' 4 g' 8 f'  |
-		e' 4 f' 8 e'  |
-		d' 2  |
+		c' 2 c' 4 d'  |
+		e' 1  |
+		f' 2 g' 4 f'  |
+		e' 2 f' 4 e'  |
+		d' 1  |
 %% 10
-		d' 4 r8 e'  |
-		e' 8 d' e' f'  |
-		g' 4 e' 8 ( d' )  |
-		c' 4 c' 8 d'  |
-		e' 4 e'  |
+		d' 2 r4 e'  |
+		e' 4 d' e' f'  |
+		g' 2 e' 4 ( d' )  |
+		c' 2 c' 4 d'  |
+		e' 2 e'  |
 %% 15
-		f' 4 g' 8 f'  |
-		e' 4 f' 8 e'  |
-		d' 4. ( c' 8 )  |
-		c' 2  |
-		e' 8 ( d' ) e' f'  |
+		f' 2 g' 4 f'  |
+		e' 2 f' 4 e'  |
+		d' 2. ( c' 4 )  |
+		c' 1  |
+		e' 4 ( d' ) e' f'  |
 %% 20
-		g' 4 e' 8 d'  |
-		c' 8 a c' d'  |
-		e' 2  |
-		f' 4 g' 8 f'  |
-		e' 4 f' 8 e'  |
+		g' 2 e' 4 d'  |
+		c' 4 a c' d'  |
+		e' 1  |
+		f' 2 g' 4 f'  |
+		e' 2 f' 4 e'  |
 %% 25
-		d' 2  |
-		d' 4 r8 e'  |
-		e' 8 d' e' f'  |
-		g' 4 e' 8 ( d' )  |
-		c' 4 c' 8 d'  |
+		d' 1  |
+		d' 2 r4 e'  |
+		e' 4 d' e' f'  |
+		g' 2 e' 4 ( d' )  |
+		c' 2 c' 4 d'  |
 %% 30
-		e' 4 e'  |
-		f' 4 g' 8 f'  |
-		e' 4 f' 8 e'  |
-		d' 4. c' 8  |
-		c' 2  |
-		\bar "|."
+		e' 2 e'  |
+		f' 2 g' 4 f'  |
+		e' 2 f' 4 e'  |
+		d' 2. c' 4  |
+		c' 1  |
 	}
 	\new Lyrics \lyricsto "soprano" {
 		"Bus"  __ "ca" "pri" -- "me" -- "ro" "el" "rei" -- "no" "de" "Dios"

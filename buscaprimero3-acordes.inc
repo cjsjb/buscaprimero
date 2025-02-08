@@ -2,21 +2,21 @@
 		\chords {
 
 		% intro
-		c2 g2
+		c1 g1
 
 		% busca primero...
-		c2 g2 a2:m e2:m
-		f2 c2 g2 g2
-		c2 g2 a2:m e2:m
-		f2 c2 g2 c2
+		c1 g1 a1:m e1:m
+		f1 c1 g1 g1
+		c1 g1 a1:m e1:m
+		f1 c1 g1 c1
 
 		\bar "||"
 
 		% aleluya...
-		c2 g2 a2:m e2:m
-		f2 c2 g2 g2
-		c2 g2 a2:m e2:m
-		f2 c2 g2 c2
+		c1 g1 a1:m e1:m
+		f1 c1 g1 g1
+		c1 g1 a1:m e1:m
+		f1 c1 g1 c1
 
 		\bar "|."
 		}

@@ -12,46 +12,46 @@
 
 		\clef "treble_8"
 		\key c \major
-		R2*2  |
-		g 8 ~ g g a  |
-		b 4 g 8 f  |
+
+		R1*2  |
+		g 4 ~ g g a  |
+		b 2 g 4 f  |
 %% 5
-		e 4 e 8 f  |
-		g 2  |
-		a 4 a 8 a  |
-		g 4 g 8 g  |
-		g 2  |
+		e 2 e 4 f  |
+		g 1  |
+		a 2 a 4 a  |
+		g 2 g 4 g  |
+		g 1  |
 %% 10
-		b 4 r8 g  |
-		g 8 g g a  |
-		b 4 g 8 ~ g  |
-		e 4 e 8 f  |
-		g 4 g  |
+		b 2 r4 g  |
+		g 4 g g a  |
+		b 2 g 4 ~ g  |
+		e 2 e 4 f  |
+		g 2 g  |
 %% 15
-		a 4 b 8 a  |
-		g 4 a 8 g  |
-		b 4. ( c' 8 )  |
-		c' 2  |
-		g 8 ~ g g a  |
+		a 2 b 4 a  |
+		g 2 a 4 g  |
+		b 2. ( c' 4 )  |
+		c' 1  |
+		g 4 ~ g g a  |
 %% 20
-		b 4 g 8 f  |
-		e 8 e e f  |
-		g 2  |
-		a 4 b 8 a  |
-		g 4 a 8 g  |
+		b 2 g 4 f  |
+		e 4 e e f  |
+		g 1  |
+		a 2 b 4 a  |
+		g 2 a 4 g  |
 %% 25
-		g 2  |
-		b 4 r  |
-		c' 2  |
-		g 2  |
-		a 2  |
+		g 1  |
+		b 2 r  |
+		c' 1  |
+		g 1  |
+		a 1  |
 %% 30
-		e 2  |
-		f 2  |
-		c' 2  |
-		b 2  |
-		c' 2  |
-		\bar "|."
+		e 1  |
+		f 1  |
+		c' 1  |
+		b 1  |
+		c' 1  |
 	}
 	\new Lyrics \lyricsto "voz-baritono" {
 		"Bus" __ "ca" "pri" -- "me" -- "ro" "el" "rei" -- "no" "de" "Dios"

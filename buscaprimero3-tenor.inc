@@ -13,46 +13,45 @@
 		\clef "treble_8"
 		\key c \major
 
-		R2*2  |
-		c' 8 ~ c' c' c'  |
-		b 4 b 8 b  |
+		R1*2  |
+		c' 4 ~ c' c' c'  |
+		b 2 b 4 b  |
 %% 5
-		a 4 a 8 a  |
-		g 2  |
-		a 4 a 8 a  |
-		g 4 g 8 g  |
-		g 2  |
+		a 2 a 4 a  |
+		g 1  |
+		a 2 a 4 a  |
+		g 2 g 4 g  |
+		g 1  |
 %% 10
-		g 4 ( a 8 b )  |
-		c' 8 c' c' c'  |
-		b 4 b 8 ~ b  |
-		a 4 a 8 a  |
-		g 4 g  |
+		g 2 ( a 4 b )  |
+		c' 4 c' c' c'  |
+		b 2 b 4 ~ b  |
+		a 2 a 4 a  |
+		g 2 g  |
 %% 15
-		a 4 b 8 a  |
-		g 4 a 8 g  |
-		g 4. ( g 8 )  |
-		g 2  |
-		c' 2  |
+		a 2 b 4 a  |
+		g 2 a 4 g  |
+		g 2. ( g 4 )  |
+		g 1  |
+		c' 1  |
 %% 20
-		b 2  |
-		a 2  |
-		g 2  |
-		a 2  |
-		g 2  |
+		b 1  |
+		a 1  |
+		g 1  |
+		a 1  |
+		g 1  |
 %% 25
-		g 2  |
-		g 4 ( a 8 b )  |
-		c' 2  |
-		b 2  |
-		a 2  |
+		g 1  |
+		g 2 ( a 4 b )  |
+		c' 1  |
+		b 1  |
+		a 1  |
 %% 30
-		g 2  |
-		a 2  |
-		g 2  |
-		g 2  |
-		g 2  |
-		\bar "|."
+		g 1  |
+		a 1  |
+		g 1  |
+		g 1  |
+		g 1  |
 	}
 	\new Lyrics \lyricsto "tenor" {
 		"Bus" __ "ca" "pri" -- "me" -- "ro" "el" "rei" -- "no" "de" "Dios"

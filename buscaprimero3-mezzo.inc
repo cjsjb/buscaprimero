@@ -13,46 +13,45 @@
 		\clef "treble"
 		\key c \major
 
-		R2*2  |
-		e' 8 ( d' ) e' f'  |
-		d' 4 d' 8 d'  |
+		R1*2  |
+		e' 4 ( d' ) e' f'  |
+		d' 2 d' 4 d'  |
 %% 5
-		c' 4 c' 8 d'  |
-		b 2  |
-		c' 4 e' 8 d'  |
-		c' 4 c' 8 a  |
-		b 2  |
+		c' 2 c' 4 d'  |
+		b 1  |
+		c' 2 e' 4 d'  |
+		c' 2 c' 4 a  |
+		b 1  |
 %% 10
-		b 4 r8 e'  |
-		e' 8 e' e' e'  |
-		d' 4 d' 8 ~ d'  |
-		c' 4 c' 8 d'  |
-		b 4 b  |
+		b 2 r4 e'  |
+		e' 4 e' e' e'  |
+		d' 2 d' 4 ~ d'  |
+		c' 2 c' 4 d'  |
+		b 2 b  |
 %% 15
-		c' 4 c' 8 c'  |
-		e' 4 c' 8 c'  |
-		d' 4. ( e' 8 )  |
-		e' 2  |
-		e' 8 ( d' ) e' f'  |
+		c' 2 c' 4 c'  |
+		e' 2 c' 4 c'  |
+		d' 2. ( e' 4 )  |
+		e' 1  |
+		e' 4 ( d' ) e' f'  |
 %% 20
-		d' 4 d' 8 d'  |
-		c' 8 c' c' d'  |
-		b 2  |
-		c' 4 e' 8 d'  |
-		c' 4 c' 8 a  |
+		d' 2 d' 4 d'  |
+		c' 4 c' c' d'  |
+		b 1  |
+		c' 2 e' 4 d'  |
+		c' 2 c' 4 a  |
 %% 25
-		b 2  |
-		b 4 r8 e'  |
-		e' 8 e' e' e'  |
-		d' 4 d' 8 ~ d'  |
-		c' 4 c' 8 d'  |
+		b 1  |
+		b 2 r4 e'  |
+		e' 4 e' e' e'  |
+		d' 2 d' 4 ~ d'  |
+		c' 2 c' 4 d'  |
 %% 30
-		b 4 b  |
-		c' 4 c' 8 c'  |
-		e' 4 c' 8 c'  |
-		d' 4. ( e' 8 )  |
-		e' 2  |
-		\bar "|."
+		b 2 b  |
+		c' 2 c' 4 c'  |
+		e' 2 c' 4 c'  |
+		d' 2. ( e' 4 )  |
+		e' 1  |
 	}
 	\new Lyrics \lyricsto "mezzo" {
 		"Bus" __ "ca" "pri" -- "me" -- "ro" "el" "rei" -- "no" "de" "Dios"
